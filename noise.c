@@ -6,7 +6,7 @@
 #define use_em 1
 
 #if use_em
-#include "canvas.h"
+#include "vendor/wasm-canvas/canvas.h"
 #endif
 
 #define AVG(x, y) ((x + y) / 2)
